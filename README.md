@@ -2,6 +2,8 @@
 
 ![DMTV PCB](/images/DMTVPCB.png)
 
+# DMTV (DEPRICATED - USE DMTV v2)
+
 DMTV or "Dot Matrix Television" is an embedded solution to pair with a an original GameBoy console to provide 800x600 60Hz VGA out graphics, NES controller input, custom color palettes, and toggleable scanlines.
 
 Utilizes Lattice iCE40HX1K-VQ100 low cost FPGA for display processing and Atmega32u4 for controller processing.
